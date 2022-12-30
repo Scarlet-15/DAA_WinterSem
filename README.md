@@ -1,2 +1,2 @@
 # DAA_WinterSem
-A repo with my collage work files
+A repository that contains various algorithms and their time complexity analysis.(Collage Work)
